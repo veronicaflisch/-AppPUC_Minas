@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PUC Minas</string>
+    <string name="usuario">Login/Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Acessar</string>
+    <string name="BemVindo">Seja Bem Vindo ao Sistema de Gestão Acadêmica PUC Minas!</string>
+    <string name="sair">Sair</string>
+    <string name="cadastro">Não sou cadastrado</string>
+</resources>
